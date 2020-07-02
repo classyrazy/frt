@@ -1,0 +1,80 @@
+body{
+    margin-top: 100px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 100px;
+    padding: 0px;
+    background: #fafafa;
+}
+h1{
+    opacity: .5;
+    white-space: nowrap;
+    font-size: 30px;
+}
+.thicker{
+    opacity: 1;
+    white-space: nowrap;
+    font-size: 30px;
+}
+p{
+    opacity: .6;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.supercon{
+    background-color: rgba(238, 230, 214, 0.068);
+    border-radius: 20px;
+    box-sizing: border-box;
+    box-shadow: 0em .3em .7em rgba(0, 0, 0, 0.4);
+    padding: 30px;
+    width: 100%;
+    height: 35vh;
+    border-top: cyan solid 7px;
+}
+img{
+    margin-left: 70%;
+}
+.team{
+    background-color: rgba(238, 230, 214, 0.068);
+    border-radius: 20px;
+    box-sizing: border-box;
+    box-shadow: 0em .3em .7em rgba(0, 0, 0, 0.4);
+    padding: 30px;
+    width: 100%;
+    height: 35vh;
+    border-top: red solid 7px;
+    margin-top: 30px;
+}
+.karma{
+    background-color: rgba(238, 230, 214, 0.068);
+    border-radius: 20px;
+    box-sizing: border-box;
+    box-shadow: 0em .3em .7em rgba(0, 0, 0, 0.4);
+    padding: 30px;
+    width: 100%;
+    height: 35vh;
+    border-top: orangered solid 7px;
+    margin-top: 30px;
+}
+.calculator{
+    background-color: rgba(238, 230, 214, 0.068);
+    border-radius: 20px;
+    box-sizing: border-box;
+    box-shadow: 0em .3em .7em rgba(0, 0, 0, 0.4);
+    padding: 30px;
+    width: 100%;
+    height: 35vh;
+    border-top: blue solid 7px;
+    margin-top: 30px;
+}
+.calculator:hover{
+    transform: scale(1.1);
+}
+.supercon:hover{
+    transform: scale(1.1);
+}
+.team:hover{
+    transform: scale(1.1);
+}
+.karma:hover{
+    transform: scale(1.1);
+}
